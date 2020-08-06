@@ -8,11 +8,8 @@
 }
 
 .app__header {
+    object-fit: contain;
     background-color: white;
     padding: 20px;
     border-bottom: 1px solid lightgray;
-}
-
-.app__headerImage {
-    object-fit: contain;
 }
